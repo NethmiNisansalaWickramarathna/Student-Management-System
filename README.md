@@ -2,8 +2,7 @@
 
 > **Coursework Project:** ITE 1942 – ICT Project (Level 01)  
 > **Institution:** Faculty of Information Technology, University of Moratuwa  
-> **Student Name:** Wickramarathna G.W.N.Nisansala  
-> **Index Number:** E2410027  
+> **Student Name:** Wickramarathna G.W.N.N. 
 
 ---
 
@@ -39,4 +38,4 @@ A robust, lightweight, and offline-first desktop application engineered using **
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/NethmiNisansala/Student-Management-System.git](https://github.com/NethmiNisansala/Student-Management-System.git)
+git clone https://github.com/NethmiNisansalaWickramarathna/Student-Management-System
